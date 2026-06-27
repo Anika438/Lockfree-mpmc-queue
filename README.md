@@ -1,7 +1,7 @@
 # Lock-Free MPMC Queue in C++
 
 <p align="center">
-  <img src="results/benchmark_results.png" width="650">
+  <img src="benchmark_results.png" width="650">
 </p>
 
 <p align="center">
