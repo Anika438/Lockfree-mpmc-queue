@@ -4,4 +4,4 @@
 
 .vscode/
 
-results/*.csv
+*.csv
